@@ -1,0 +1,22 @@
+/* PlaceCard.css */
+.place-card {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 300px;
+  }
+  
+  .place-card img {
+    width: 100%;
+    border-radius: 5px;
+  }
+  
+  .place-card h2 {
+    margin-top: 10px;
+  }
+  
+  .place-card p {
+    margin-top: 5px;
+  }
+  
